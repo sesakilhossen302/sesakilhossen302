@@ -1,26 +1,23 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=bg:#0d1117,0:00F2FE,50:4FACFE,100:00D2FF&height=200&section=header&text=SAKIL%20HOSSEN&fontSize=50&fontColor=ffffff&fontAlignY=45&animation=twinkle&desc=FLUTTER%20%26%20MOBILE%20APP%20ARCHITECT&descSize=18&descAlignY=70&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F2FE,50:4FACFE,100:6B11FF&height=250&section=header&text=Sakil%20Hossen&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=twinkle&desc=Flutter%20%26%20Mobile%20Application%20Engineer&descSize=20&descAlignY=62&descAlign=50" width="100%" />
 
-  <br/>
+  <p align="center">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=24&pause=1000&color=00F2FE&center=true&vCenter=true&width=650&height=50&lines=%E2%9C%A8+Crafting+Production-Ready+Mobile+Apps;%F0%9F%93%B1+Flutter+%7C+Dart+%7C+Clean+Architecture;%F0%9F%94%A5+Firebase+%7C+GetX+%7C+BLoC+%7C+REST+APIs;%F0%9F%A4%96+AI+Integration+%26+High-Performance+UI" alt="Typing SVG" />
+    </a>
+  </p>
 
-  <!-- Profile Visitor Count -->
-  <img src="https://komarev.com/ghpvc/?username=srsakilhossen302&style=for-the-badge&color=00F2FE&label=PROFILE+VIEWS+%F0%9F%91%81%EF%B8%8F" alt="Visitor Count" />
-  
-  <br/><br/>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Location-Mohakhali%2C%20Dhaka%2C%20Bangladesh%20%F0%9F%87%BD%F0%9F%87%B6-00F2FE?style=for-the-badge&logoColor=white&color=0d1117" />
+    <img src="https://komarev.com/ghpvc/?username=srsakilhossen302&style=for-the-badge&color=00F2FE&label=PROFILE+VIEWS+%F0%9F%91%81%EF%B8%8F" />
+  </p>
 
-  <!-- Animated Typing Subtitle -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F2FE&center=true&vCenter=true&width=700&height=50&lines=%E2%9A%A1+Senior+Flutter+%26+Dart+Developer;%F0%9F%93%B1+Crafting+High-Performance+Android+%26+iOS+Apps;%F0%9F%8F%97%EF%B8%8F+Clean+Architecture+%7C+GetX+%7C+BLoC+%7C+Provider;%F0%9F%A4%96+AI+Integration+%7C+REST+APIs+%7C+Firebase" alt="Typing SVG" />
-  </a>
-
-  <br/>
-
-  <!-- Social Icons with Cool Badges -->
+  <!-- Social Media Connections -->
   <p align="center">
     <a href="https://linkedin.com/in/sakilhossen302" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     <a href="https://www.facebook.com/share/sakilhossen302/" target="_blank">
       <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
@@ -29,116 +26,137 @@
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
     </a>
     <a href="mailto:sakilhossen302@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
   </p>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 <br/>
 
-<!-- Side by Side Layout: GIF + About Me -->
-<table>
+---
+
+### 👨‍💻 ABOUT ME
+
+<table border="0">
   <tr>
-    <td width="40%" align="center" valign="middle">
-      <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%" alt="Coding Animation" style="border-radius: 12px;" />
-    </td>
-    <td width="60%" valign="top">
-      <h3>⚡ About Me</h3>
-      <p>
-        I am a passionate <b>Flutter Mobile Application Developer</b> located in <b>Mohakhali, Dhaka, Bangladesh 🇧🇩</b>. I specialize in turning complex ideas into sleek, fluid, and scalable mobile apps.
-      </p>
+    <td width="55%" valign="top">
+      <p>Hello World! I'm <b>Sakil Hossen</b>, a passionate <b>Mobile Application Developer</b> specializing in the <b>Flutter & Dart ecosystem</b>. I craft beautiful, responsive, and robust cross-platform applications with clean, maintainable architecture.</p>
+      
       <ul>
-        <li>🔭 <b>Current Focus:</b> Production-grade Flutter Architecture & AI Integrations</li>
-        <li>🌱 <b>Learning & Exploring:</b> Advanced Native Bridges (Kotlin/Swift) & Machine Learning models</li>
-        <li>🎯 <b>Goal:</b> Delivering 60FPS, pixel-perfect, secure mobile software</li>
-        <li>💬 <b>Ask me about:</b> Flutter, State Management (GetX/BLoC/Provider), Clean Code</li>
-        <li>📫 <b>Contact:</b> <code>sakilhossen302@gmail.com</code></li>
+        <li>🚀 <b>Core Stack:</b> Flutter, Dart, Firebase, REST APIs, Clean Architecture</li>
+        <li>🧩 <b>State Management:</b> GetX, Provider, BLoC</li>
+        <li>💾 <b>Database Solutions:</b> SQLite, Hive, Firestore, Supabase</li>
+        <li>⚙️ <b>Architecture:</b> MVVM, Clean Architecture, Repository Pattern</li>
+        <li>🎯 <b>Current Focus:</b> AI Integrations into Mobile Apps & Performance Tuning</li>
       </ul>
+    </td>
+    <td width="45%" align="center" valign="middle">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srsakilhossen302&layout=donut&theme=tokyonight&hide_border=true&title_color=00F2FE" width="100%" />
     </td>
   </tr>
 </table>
 
-<br/>
+---
 
-<!-- GitHub Trophies -->
+### 🛠️ TECH STACK & TOOLS
+
 <div align="center">
-  <h3>🏆 GitHub Trophies</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=srsakilhossen302&theme=radical&column=6&margin-w=15&margin-h=15&no-bg=true" width="100%" />
+
+  <p><b>Languages & Core Frameworks</b></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,dart,js,html,css,cpp" />
+  </a>
+
+  <br/><br/>
+
+  <p><b>Backend, Cloud & Database</b></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=firebase,supabase,sqlite" />
+  </a>
+
+  <br/><br/>
+
+  <p><b>Development Tools & Environment</b></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,androidstudio,vscode,postman,figma" />
+  </a>
+
+  <br/><br/>
+
+  <!-- State Management Badges -->
+  <p><b>State Management & Architecture</b></p>
+  <img src="https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Provider-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/BLoC-009688?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Clean_Architecture-00F2FE?style=for-the-badge&logo=architecture&logoColor=black" />
+
 </div>
 
-<br/>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-<br/>
+---
 
-<!-- Tech Stack Section -->
-<h2 align="center">💻 Tech Stack & Capabilities</h2>
+### 🏆 GITHUB TROPHIES
 
 <div align="center">
-
-| Category | Badges / Technologies |
-| :--- | :--- |
-| **Mobile Development** | <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" /> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /> <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" /> |
-| **State Management** | <img src="https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/Provider-02569B?style=for-the-badge&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/BLoC-009688?style=for-the-badge&logo=flutter&logoColor=white" /> |
-| **Backend & Cloud** | <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" /> <img src="https://img.shields.io/badge/REST_API-0055DA?style=for-the-badge&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" /> |
-| **Database & Cache** | <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" /> <img src="https://img.shields.io/badge/Hive_DB-FFA000?style=for-the-badge&logo=flutter&logoColor=white" /> |
-| **Web & Languages** | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> |
-| **Dev Tools & IDEs** | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> |
-
+  <img src="https://github-profile-trophy.vercel.app/?username=srsakilhossen302&theme=tokyonight&column=6&margin-w=15&margin-h=15&no-bg=true" width="100%" />
 </div>
 
-<br/>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-<br/>
+---
 
-<!-- GitHub Analytics Dashboard -->
-<h2 align="center">📊 GitHub Analytics Dashboard</h2>
+### 📈 PERFORMANCE & STATS DASHBOARD
 
 <div align="center">
+
   <table border="0">
     <tr>
       <td>
-        <img height="185em" src="https://github-readme-stats.vercel.app/api?username=srsakilhossen302&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&title_color=00F2FE&icon_color=00F2FE" />
+        <img height="195em" src="https://github-readme-stats.vercel.app/api?username=srsakilhossen302&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=00F2FE&icon_color=00F2FE" />
       </td>
       <td>
-        <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srsakilhossen302&layout=compact&theme=radical&hide_border=true&title_color=00F2FE" />
+        <img height="195em" src="https://github-readme-streak-stats.herokuapp.com/?user=srsakilhossen302&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
       </td>
     </tr>
   </table>
 
   <br/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srsakilhossen302&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Streak Stats" width="95%" />
+  <!-- Interactive Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=srsakilhossen302&theme=tokyo-night&hide_border=true&area=true" width="98%" />
 
-  <br/><br/>
-
-  <!-- Contribution Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=srsakilhossen302&theme=react-dark&hide_border=true&area=true" width="95%" />
 </div>
 
-<br/>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-<br/>
+---
 
-<!-- Featured Repositories Showcase -->
-<h2 align="center">🚀 Featured Repositories</h2>
+### 🌟 FEATURED PROJECTS
 
-<p align="center">
-  <a href="https://github.com/srsakilhossen302/sports_program_booking">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=srsakilhossen302&repo=sports_program_booking&theme=radical&hide_border=true" />
-  </a>
-  <a href="https://github.com/srsakilhossen302/live-stream-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=srsakilhossen302&repo=live-stream-app&theme=radical&hide_border=true" />
-  </a>
-</p>
-
-<br/>
-
-<!-- Footer -->
 <div align="center">
-  <p><i>💡 "Building software is an art; writing clean Flutter code is a passion."</i></p>
+
+  <table border="0">
+    <tr>
+      <td width="50%" align="center">
+        <a href="https://github.com/srsakilhossen302/sports_program_booking">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=srsakilhossen302&repo=sports_program_booking&theme=tokyonight&hide_border=true" />
+        </a>
+      </td>
+      <td width="50%" align="center">
+        <a href="https://github.com/srsakilhossen302/live-stream-app">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=srsakilhossen302&repo=live-stream-app&theme=tokyonight&hide_border=true" />
+        </a>
+      </td>
+    </tr>
+  </table>
+
+</div>
+
+---
+
+<div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=bg:#0d1117,0:00F2FE,100:4FACFE&height=120&section=footer" width="100%" />
+  <p><i>💡 "Code is like humor. When you have to explain it, it’s bad." – Cory House</i></p>
+
+  <br/>
+
+  <!-- Footer Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6B11FF,50:4FACFE,100:00F2FE&height=120&section=footer" width="100%" />
+
 </div>
