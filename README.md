@@ -38,12 +38,24 @@
 
   <!-- Website Style Navigation Bar -->
   <p align="center">
-    <a href="#about-me"><b>[ 👤 ABOUT ME ]</b></a> &nbsp;•&nbsp;
-    <a href="#tech-stack"><b>[ 🛠️ TECH STACK ]</b></a> &nbsp;•&nbsp;
-    <a href="#ai-productivity"><b>[ 🤖 AI WORKFLOWS ]</b></a> &nbsp;•&nbsp;
-    <a href="#experience"><b>[ 💼 EXPERIENCE ]</b></a> &nbsp;•&nbsp;
-    <a href="#projects"><b>[ 🚀 PROJECTS ]</b></a> &nbsp;•&nbsp;
-    <a href="#education"><b>[ 🎓 EDUCATION ]</b></a>
+    <a href="#about-me">
+      <img src="https://img.shields.io/badge/👤_ABOUT_ME-00F2FE?style=for-the-badge&logoColor=white&color=0d1117" />
+    </a>
+    <a href="#tech-stack">
+      <img src="https://img.shields.io/badge/🛠️_TECH_STACK-4FACFE?style=for-the-badge&logoColor=white&color=0d1117" />
+    </a>
+    <a href="#ai-productivity">
+      <img src="https://img.shields.io/badge/🤖_AI_WORKFLOWS-6B11FF?style=for-the-badge&logoColor=white&color=0d1117" />
+    </a>
+    <a href="#experience">
+      <img src="https://img.shields.io/badge/💼_EXPERIENCE-00F2FE?style=for-the-badge&logoColor=white&color=0d1117" />
+    </a>
+    <a href="#projects">
+      <img src="https://img.shields.io/badge/🚀_PROJECTS-4FACFE?style=for-the-badge&logoColor=white&color=0d1117" />
+    </a>
+    <a href="#education">
+      <img src="https://img.shields.io/badge/🎓_EDUCATION-6B11FF?style=for-the-badge&logoColor=white&color=0d1117" />
+    </a>
   </p>
 
 </div>
