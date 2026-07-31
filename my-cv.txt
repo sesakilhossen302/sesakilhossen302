@@ -1,0 +1,78 @@
+SAKIL HOSSEN
+Flutter Mobile Application Developer
+Mohakhali, Dhaka, Bangladesh
+Phone: +8801774452302 
+Email: ce.sakilhossen302@gmail.com 
+GitHub: github.com/srsakilhossen302 
+LinkedIn: linkedin.com/in/sakilhossen302/ 
+WebApp: https://srsakilhossen302.github.io/sakilhossen.com/
+                                                                                                                                             PROFESSIONAL SUMMARY 
+Results-driven Flutter Mobile Application Developer with hands-on experience building production-ready mobile applications for real-world business needs. Experienced in Flutter, Dart, GetX, Firebase, REST API integration, payment gateway solutions, push notifications, real-time communication systems, and AI-assisted development workflows. Successfully delivered multiple end-to-end applications while collaborating directly with clients, 
+gathering requirements, and transforming business ideas into scalable mobile products. 
+CORE COMPETENCIES 
+• Flutter & Dart Development 
+• Cross-Platform Mobile Applications 
+• GetX State Management 
+• Firebase Services (Auth, Firestore, FCM, Storage) 
+• REST API Integration & Backend Communication 
+• Stripe, Google Pay & Apple Pay Integration 
+• Real-Time Chat & WebSocket Solutions 
+• Push Notifications (FCM) 
+• Git & GitHub Version Control 
+PROFESSIONAL EXPERIENCE 
+Flutter Mobile Application Developer | Freelance Software Developer
+November 2025 – Present 
+• Delivered 9+ mobile applications from concept to deployment. 
+• Worked directly with clients to understand requirements and define technical solutions. • Built scalable Flutter applications using modern architecture principles. 
+• Integrated payment gateways including Stripe, Google Pay, and Apple Pay. 
+• Developed real-time messaging and communication systems. 
+• Implemented push notifications and user engagement features. 
+• Collaborated with designers, backend developers, and stakeholders throughout project lifecycles. • Maintained and optimized production applications for performance and reliability. 
+
+
+AI-Assisted Development & Productivity 
+
+• AI-Assisted Software Development.
+• Prompt Engineering for Development Workflows.
+• Rapid Prototyping with AI Tools.
+• Software Requirement Analysis & Documentation.
+• AI-Powered Research & Problem Solving.
+• Development Productivity using ChatGPT, Gemini & Claude.
+• Technical Content Generation & Code Assistance.
+• AI-Enhanced Debugging & Development Workflow.
+
+
+FEATURED PROJECTS 
+
+Quran International 
+Multilingual Quran application featuring audio recitation, translations, bookmarking, and user-friendly reading experiences for global users. 
+Live Stream App 
+Real-time live streaming platform with audience interaction, secure authentication, notifications, and scalable architecture. 
+Restaurant Booking System 
+Reservation management platform enabling customers to discover restaurants, reserve tables, and manage bookings efficiently. 
+Job Booking System 
+Service marketplace application connecting customers and professionals through booking, scheduling, payments,
+and notifications. 
+TECHNICAL SKILLS 
+Languages: Dart 
+Frameworks: Flutter
+State Management: GetX, Provider 
+Backend Integration: REST APIs, JSON, Dio, HTTP 
+Database & Cloud: Firebase, Firestore, Storage 
+Payments: Stripe, Google Pay, Apple Pay ,  In App Purchase
+Tools: Android Studio, VS Code, Git, GitHub, Postman 
+Deployment: Google Play Store, App Store 
+AI Productivity: ChatGPT, Gemini, Claude, Prompt Engineering, AI Workflow Optimization 
+EDUCATION 
+TMSS Polytechnic Institute, Rangpur 
+Diploma in Computer Science & Technology 
+INDUSTRIAL TRAINING 
+Flutter App Development
+Learned Flutter & Dart from basic to advanced level, built multiple practical applications, and gained experience in the complete mobile application development lifecycle. 
+CAREER OBJECTIVE 
+Seeking a remote or global software development opportunity where I can contribute my expertise in Flutter mobile application development, continue strengthening my backend engineering skills, and grow into a Full-Stack Mobile Application Developer while building impactful products for international users. 
+REFERENCES 
+M A Mazedul Islam 
+Senior Flutter Developer, SpondonIT 
+Phone: +8801770554970 
+Email: mazedulislam4970@gmail.com
