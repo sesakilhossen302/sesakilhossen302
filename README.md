@@ -38,12 +38,12 @@
 
   <!-- Website Style Navigation Bar -->
   <p align="center">
-    <a href="#-about-me"><b>[ 👤 ABOUT ME ]</b></a> &nbsp;•&nbsp;
-    <a href="#-tech-stack--architecture"><b>[ 🛠️ TECH STACK ]</b></a> &nbsp;•&nbsp;
-    <a href="#-ai-assisted-development--productivity"><b>[ 🤖 AI WORKFLOWS ]</b></a> &nbsp;•&nbsp;
-    <a href="#-professional-experience"><b>[ 💼 EXPERIENCE ]</b></a> &nbsp;•&nbsp;
-    <a href="#-featured-projects"><b>[ 🚀 PROJECTS ]</b></a> &nbsp;•&nbsp;
-    <a href="#-education-training--reference"><b>[ 🎓 EDUCATION ]</b></a>
+    <a href="#about-me"><b>[ 👤 ABOUT ME ]</b></a> &nbsp;•&nbsp;
+    <a href="#tech-stack"><b>[ 🛠️ TECH STACK ]</b></a> &nbsp;•&nbsp;
+    <a href="#ai-productivity"><b>[ 🤖 AI WORKFLOWS ]</b></a> &nbsp;•&nbsp;
+    <a href="#experience"><b>[ 💼 EXPERIENCE ]</b></a> &nbsp;•&nbsp;
+    <a href="#projects"><b>[ 🚀 PROJECTS ]</b></a> &nbsp;•&nbsp;
+    <a href="#education"><b>[ 🎓 EDUCATION ]</b></a>
   </p>
 
 </div>
@@ -55,13 +55,11 @@
 <a id="about-me"></a>
 ### 👤 ABOUT ME
 
-<table border="0">
+<table border="0" width="100%">
   <tr>
     <td width="60%" valign="top">
       <p>Results-driven <b>Flutter Mobile Application Developer</b> with hands-on experience building production-ready mobile applications for real-world business needs. Proficient in <b>Flutter, Dart, GetX, Firebase, REST API integration, payment gateways, push notifications, and real-time communication systems</b>.</p>
-      
       <p>Successfully delivered <b>9+ end-to-end applications</b> while collaborating directly with clients, gathering requirements, and transforming complex business ideas into scalable, high-performance mobile products.</p>
-      
       <ul>
         <li>🚀 <b>Core Stack:</b> Flutter, Dart, Clean Architecture, REST APIs</li>
         <li>🧩 <b>State Management:</b> GetX, Provider, BLoC</li>
@@ -163,11 +161,8 @@
 <a id="experience"></a>
 ### 💼 PROFESSIONAL EXPERIENCE
 
-```gfm
-📱 Flutter Mobile Application Developer | Freelance Software Developer
-🗓️ November 2025 – Present
-📍 Remote / Global Clients
-```
+> 📱 **Flutter Mobile Application Developer | Freelance Software Developer**  
+> 🗓️ **November 2025 – Present** &nbsp;|&nbsp; 📍 **Remote / Global Clients**
 
 - 📦 **End-to-End Delivery:** Built and delivered **9+ production mobile applications** from initial requirements gathering to App Store & Play Store deployment.
 - 🤝 **Client Collaboration:** Worked directly with international clients to define technical scope, UX flows, and scalable architecture.
@@ -187,12 +182,11 @@
       <div align="center">
         <h3>📖 Quran International</h3>
         <p><i>Multilingual Quran Application</i></p>
-        <p>Features audio recitations, multi-language translations, bookmarking, and an elegant, user-friendly reading interface designed for global users.</p>
+        <p>Features audio recitations, multi-language translations, bookmarking, and an intuitive reading interface for global users.</p>
         <p>
           <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
           <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
           <img src="https://img.shields.io/badge/GetX-8A2BE2?style=flat-square&logo=flutter&logoColor=white" />
-          <img src="https://img.shields.io/badge/Audio-FF9900?style=flat-square" />
         </p>
       </div>
     </td>
@@ -200,12 +194,11 @@
       <div align="center">
         <h3>🔴 Live Stream App</h3>
         <p><i>Real-Time Live Streaming Platform</i></p>
-        <p>Features real-time interactive audience engagement, secure authentication, live chat, instant FCM notifications, and scalable streaming infrastructure.</p>
+        <p>Features interactive audience engagement, secure authentication, live chat, instant FCM notifications, and scalable streaming.</p>
         <p>
           <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
           <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
           <img src="https://img.shields.io/badge/WebSockets-00F2FE?style=flat-square" />
-          <img src="https://img.shields.io/badge/FCM-FF6F00?style=flat-square" />
         </p>
       </div>
     </td>
@@ -215,12 +208,11 @@
       <div align="center">
         <h3>🍽️ Restaurant Booking System</h3>
         <p><i>Reservation Management Platform</i></p>
-        <p>Enables customers to discover restaurants, view real-time table availability, reserve dining tables, and manage booking schedules effortlessly.</p>
+        <p>Enables customers to discover restaurants, view real-time table availability, reserve dining tables, and manage booking schedules.</p>
         <p>
           <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
           <img src="https://img.shields.io/badge/REST_API-00F2FE?style=flat-square" />
           <img src="https://img.shields.io/badge/Stripe-6772E5?style=flat-square&logo=stripe&logoColor=white" />
-          <img src="https://img.shields.io/badge/GetX-8A2BE2?style=flat-square" />
         </p>
       </div>
     </td>
@@ -228,12 +220,11 @@
       <div align="center">
         <h3>💼 Job Booking System</h3>
         <p><i>On-Demand Service Marketplace</i></p>
-        <p>Connects clients with skilled service professionals featuring instant booking, dynamic scheduling, secure payment processing, and real-time status updates.</p>
+        <p>Connects clients with skilled service professionals featuring instant booking, dynamic scheduling, and secure payment processing.</p>
         <p>
           <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
           <img src="https://img.shields.io/badge/Google_Pay-4285F4?style=flat-square&logo=googlepay&logoColor=white" />
           <img src="https://img.shields.io/badge/Apple_Pay-000000?style=flat-square&logo=applepay&logoColor=white" />
-          <img src="https://img.shields.io/badge/Clean_Arch-00F2FE?style=flat-square" />
         </p>
       </div>
     </td>
@@ -251,8 +242,6 @@
       <h4>🎓 Education</h4>
       <p><b>TMSS Polytechnic Institute, Rangpur</b><br/>
       📜 Diploma in Computer Science & Technology</p>
-      
-      <br/>
       <h4>📜 Industrial Training</h4>
       <p><b>Flutter App Development</b><br/>
       Mastered Flutter & Dart from fundamentals to advanced mobile engineering, building practical production applications across the complete software development lifecycle.</p>
@@ -269,6 +258,7 @@
 
 ---
 
+<a id="stats"></a>
 ### 📊 PERFORMANCE & GITHUB STATS
 
 <div align="center">
