@@ -81,8 +81,14 @@
       </ul>
     </td>
     <td width="40%" align="center" valign="top">
-      <br/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srsakilhossen302&layout=donut&theme=tokyonight&hide_border=true&title_color=00F2FE" width="100%" />
+      <div align="center">
+        <h3>⚡ KEY HIGHLIGHTS</h3>
+        <p><img src="https://img.shields.io/badge/Apps_Delivered-9%2B_Production_Apps-00F2FE?style=for-the-badge&logo=flutter&logoColor=white" /></p>
+        <p><img src="https://img.shields.io/badge/Architecture-Clean_%26_MVVM-4FACFE?style=for-the-badge&logo=architecture&logoColor=white" /></p>
+        <p><img src="https://img.shields.io/badge/Payments-Stripe_%7C_GPay_%7C_ApplePay-6B11FF?style=for-the-badge&logo=stripe&logoColor=white" /></p>
+        <p><img src="https://img.shields.io/badge/Real--Time-WebSockets_%26_FCM-00F2FE?style=for-the-badge&logo=firebase&logoColor=white" /></p>
+        <p><img src="https://img.shields.io/badge/Productivity-AI--Assisted_3x_Speed-brightgreen?style=for-the-badge&logo=openai&logoColor=white" /></p>
+      </div>
     </td>
   </tr>
 </table>
