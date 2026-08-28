@@ -36,6 +36,19 @@
     </a>
   </p>
 
+  <br/>
+
+  <!-- Interactive Web Portfolio Showcase Banner -->
+  <p align="center">
+    <a href="https://srsakilhossen302.github.io/sakilhossen.com/" target="_blank">
+      <img src="image.png" alt="S.E. Sakil Hossen - Web Portfolio Banner" width="100%" />
+    </a>
+    <br/>
+    <sub>✨ <b>Click on the image above to visit my Live Interactive Web Portfolio (sakilhossen.com)</b> ✨</sub>
+  </p>
+
+  <br/>
+
   <!-- Website Style Navigation Bar -->
   <p align="center">
     <a href="#about-me">
