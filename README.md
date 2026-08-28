@@ -1,50 +1,10 @@
 <div align="center">
 
-  <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F2FE,50:4FACFE,100:6B11FF&height=230&section=header&text=Sakil%20Hossen&fontSize=48&fontColor=ffffff&fontAlignY=36&animation=twinkle&desc=Flutter%20Mobile%20Application%20Developer%20%7C%20AI-Assisted%20Engineer&descSize=17&descAlignY=58&descAlign=50" width="100%" />
-
-  <!-- Animated Typing Subtitle -->
-  <p align="center">
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=22&pause=1000&color=00F2FE&center=true&vCenter=true&width=720&height=45&lines=%F0%9F%93%B1+Senior+Flutter+%26+Dart+Developer;%F0%9F%9A%80+Delivered+9%2B+Production+Mobile+Apps;%F0%9F%92%B3+Stripe+%7C+Google+Pay+%7C+Apple+Pay+%7C+FCM;%F0%9F%A4%96+AI-Assisted+Rapid+Prototyping+%26+Workflows" alt="Typing SVG" />
-    </a>
-  </p>
-
-  <!-- Location & Status Badges -->
-  <p align="center">
-    <img src="https://img.shields.io/badge/Location-Mohakhali%2C%20Dhaka%2C%20Bangladesh%20%F0%9F%87%BD%F0%9F%87%B6-00F2FE?style=for-the-badge&logoColor=white&color=0d1117" />
-    <img src="https://komarev.com/ghpvc/?username=srsakilhossen302&style=for-the-badge&color=00F2FE&label=PROFILE+VIEWS+%F0%9F%91%81%EF%B8%8F" />
-    <img src="https://img.shields.io/badge/Status-Available%20for%20Remote%20%2F%20Global%20Roles-brightgreen?style=for-the-badge&logo=rocket&color=00F2FE" />
-  </p>
-
-  <!-- Social & Contact Links -->
-  <p align="center">
-    <a href="https://srsakilhossen302.github.io/sakilhossen.com/" target="_blank">
-      <img src="https://img.shields.io/badge/%F0%9F%8C%90_Web_Portfolio-sakilhossen.com-6B11FF?style=for-the-badge&logoColor=white" />
-    </a>
-    <a href="https://linkedin.com/in/sakilhossen302/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="https://www.facebook.com/share/sakilhossen302/" target="_blank">
-      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-    </a>
-    <a href="mailto:ce.sakilhossen302@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-ce.sakilhossen302%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-    <a href="tel:+8801774452302">
-      <img src="https://img.shields.io/badge/WhatsApp%2FPhone-%2B8801774452302-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-    </a>
-  </p>
-
-  <br/>
-
-  <!-- Interactive Web Portfolio Showcase Banner -->
+  <!-- Main Hero Banner -->
   <p align="center">
     <a href="https://srsakilhossen302.github.io/sakilhossen.com/" target="_blank">
       <img src="image.png" alt="S.E. Sakil Hossen - Web Portfolio Banner" width="100%" />
     </a>
-    <br/>
-    <sub>✨ <b>Click on the image above to visit my Live Interactive Web Portfolio (sakilhossen.com)</b> ✨</sub>
   </p>
 
   <br/>
